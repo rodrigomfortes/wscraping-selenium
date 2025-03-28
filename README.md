@@ -36,7 +36,7 @@ Python | SeleniumBase | PyAutoGUI | FPDF | Regex
 
 ## **Setup**  
 ```bash
-pip install seleniumbase pyautogui fpdf pyperclip
+pip install selenium seleniumbase pyautogui fpdf pyperclip
 ```  
 
 ## **Example Output**  
